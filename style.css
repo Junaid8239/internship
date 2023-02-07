@@ -1,0 +1,17 @@
+h1{
+    font-size: xx-large;
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+a:visited{
+    color: rgb(226, 150, 43);
+}
+a:active{
+    color: black;
+}
+h1{
+    scroll-behavior: smooth;
+}
